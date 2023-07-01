@@ -11,3 +11,4 @@ int main(){
 	cout<<"tong cua n la "<<sum;
 	return 0;
 }
+//chao ban toi la doan
